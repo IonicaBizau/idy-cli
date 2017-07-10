@@ -3,7 +3,7 @@
     "idy-cli": "bin/idy-cli.js"
   },
   "name": "idy-cli",
-  "description": "CLI for generating random string.",
+  "description": "CLI a for generating random string.",
   "keywords": [
     "idy",
     "cli",
